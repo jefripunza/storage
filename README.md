@@ -1,4 +1,5 @@
-![banner](advance-json-database.png)
+# {{judul_project}}
+![banner](banner.png)
 
 ---
 
