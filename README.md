@@ -1,4 +1,4 @@
-# {{judul_project}}
+# {{app_name}}
 ![banner](banner.png)
 
 ---
