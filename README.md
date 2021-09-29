@@ -44,7 +44,7 @@ Blablablablablablablablablablablablablablablablablablablablablablabla....
 
 Tidak terlalu rumit untuk inisial awal, cukup copy saja file <b>connection.js</b> nya kedalam project anda lalu di import dan langsung bisa digunakan
 
-#### judul script
+##### judul script
 ```txt
 _id               = primary key (string|int)
 _create_at        = kapan dibuat (timestamp)
@@ -103,7 +103,7 @@ npm start
 
 ### judul step
 
-#### judul script
+##### judul script
 ```javascript
 //  request argument :
 //      select key (object) = pilih key yang value nya ingin di cari
